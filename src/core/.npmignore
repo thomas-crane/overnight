@@ -4,6 +4,9 @@
 lib/**/*.ts
 lib/**/*.js.map
 
+# ignore test files
+integration/
+
 # not needed npm stuff
 package-lock.json
 node_modules
